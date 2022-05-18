@@ -1,0 +1,5 @@
+arcgis desktop 9.3
+arcgis engine 9.3
+visual studio 2005 team edition
+sql server 2008 r2
+.net frame work 2.0 
